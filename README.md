@@ -7,5 +7,5 @@ Required files for candidates to download:
 
 Please ensure that,
 - you  push your solution to your github repository (not a public repository),
-- make sure you defined access for accounts in questin file to be able check your repo,
+- make sure you defined access for accounts in question file to be able check your repo,
 - paste link of your repo into provided answer textbox inside questionnaire form
